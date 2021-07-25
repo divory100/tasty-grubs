@@ -1,0 +1,39 @@
+# GRUB2 Tesla Sans Theme
+# https://github.com/sueperb/tasty-grubs
+
+# general properties
+title-text: ""
+desktop-image: "tesla1.jpeg"
+terminal-box: "terminal_box_*.png"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# boot menu
++ boot_menu {
+  left = 56%
+  top = 36%
+  width = 40%
+  height = 20%
+  item_color = "#ffffff"
+  item_font = "Liberation Sans Regular 14"
+  selected_item_color = "#66bb6a"
+  item_spacing = 0
+  icon_width = 0
+  item_icon_space = 0
+  selected_item_pixmap_style = "select_*.png"
+}
+
+# boot countdown
++ label {
+  top = 67%
+  left = 52%
+  width = 30%
+  align = "right"
+  id = "__timeout__"
+  text = "%ds remaining"
+  color = "#ffffff"
+  font = "Liberation Sans Regular 14"
+}
