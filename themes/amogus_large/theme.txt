@@ -1,0 +1,39 @@
+# GRUB2 Amogus Large Theme
+# https://github.com/sueperb/tasty-grubs
+
+# general properties
+title-text: ""
+desktop-image: "amogus_large.jpeg"
+terminal-box: "terminal_box_*.png"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# boot menu
++ boot_menu {
+  left = 30%
+  top = 20%
+  width = 60%
+  height = 27%
+  item_color = "#333333"
+  item_font = "VCR OSD Mono 20"
+  selected_item_color = "#ee0000"
+  item_spacing = 0
+  icon_width = 0
+  item_icon_space = 0
+  #selected_item_pixmap_style = "select_*.png"
+}
+
+# boot countdown
++ label {
+  top = 82%
+  left = 39%
+  width = 30%
+  align = "right"
+  id = "__timeout__"
+  text = "Voting Ends In: %ds"
+  color = "#333333"
+  font = "VCR OSD Mono 20"
+}
