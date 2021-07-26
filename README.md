@@ -44,6 +44,7 @@ Tesla theme except only uses Liberation Sans font instead of tesla font, as Tesl
 Comes with multiple wallpapers in its wallpapers/ directory.
 
 *Example (fields.jpeg):*
+
 ![image](https://user-images.githubusercontent.com/76520109/127011777-57812306-8930-4a12-a475-a4d251e1e1bd.png)
 
 
