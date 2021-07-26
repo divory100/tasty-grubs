@@ -28,6 +28,22 @@ The large variant of the Amogus theme, useful if your menu entries are long and 
 
 ![image](https://user-images.githubusercontent.com/76520109/126898845-523c5ac2-7980-49b9-8a35-74880bcea4c1.png)
 
+**Tesla**
+
+Tesla model 3 interior grub theme, with authentic Tesla font (credit to [Dies](https://www.dafont.com/kayover.d6524) on dafont.com)
+
+![image](https://user-images.githubusercontent.com/76520109/126995523-1f722813-02e0-459a-b2dd-9b0b8a1a3055.png)
+
+**Tesla Sans**
+
+Tesla theme except only uses Liberation Sans font instead of tesla font, as Tesla font can sometimes be hard to read
+
+![image](https://user-images.githubusercontent.com/76520109/126995684-bb3f82a3-7f91-4c09-b6a6-b3a85c969441.png)
+
+
 
 ## Troubleshooting
 You may need to tweak the theme file if your screen resolution means the text is in the wrong place. This is as simple as editing the `left` and `top` attributes in the `+ boot_menu` and `+ label` sections in the corresponding `theme.txt` file for the theme you are using.
+
+## Credits
+Inspiration was of course found in Innersloth's popular game Among Us and Elon Musk's Tesla Model 3. :)
