@@ -1,0 +1,56 @@
+# GRUB2 Box Theme
+# https://github.com/sueperb/tasty-grubs
+
+# general properties
+title-text: ""
+#Change desktop image to the one you prefer from wallpapers/ directory or add your own
+#Available in wallpapers/ are metropolis.jpeg, fields.jpg
+desktop-image: "./wallpapers/fields.jpeg"
+terminal-box: "terminal_box_*.png"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# boot menu
++ boot_menu {
+  left = 20%
+  top = 29%
+  width = 60%
+  height = 27%
+  item_color = "#ffffff"
+  item_font = "Iosevka Regular 14"
+  icon_width = 64
+  icon_height = 64
+  item_icon_space = 36
+  selected_item_color = "#03a9f4"
+  item_spacing = 0
+  icon_width = 0
+  item_icon_space = 0
+  selected_item_pixmap_style = "select_*.png"
+}
+
+# boot countdown
++ label {
+  top = 70%
+  left = 28%
+  width = 30%
+  align = "right"
+  id = "__timeout__"
+  text = "Booting in %ds"
+  color = "#ffffff"
+  font = "Iosevka Regular 14"
+}
+
+#Title text
++ label {
+  top = 23%
+  left = 27%
+  width = 30%
+  align = "right"
+  id = "__title__"
+  text = "Choose an OS"
+  color = "#cdcfd4"
+  font = "Iosevka Regular 14"
+}
