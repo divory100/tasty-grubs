@@ -14,12 +14,12 @@ terminal-border: "0"
 
 # boot menu
 + boot_menu {
-  left = 31%
-  top = 27%
-  width = 38%
-  height = 10%
+  left = 20%
+  top = 29%
+  width = 60%
+  height = 27%
   item_color = "#ffffff"
-  item_font = "Liberation Sans Regular 11"
+  item_font = "Iosevka Regular 10"
   icon_width = 64
   icon_height = 64
   item_icon_space = 36
@@ -32,24 +32,24 @@ terminal-border: "0"
 
 # boot countdown
 + label {
-  top = 73%
-  left = 25%
+  top = 70%
+  left = 28%
   width = 30%
   align = "right"
   id = "__timeout__"
   text = "Booting in %ds"
   color = "#ffffff"
-  font = "Liberation Sans Regular 11"
+  font = "Iosevka Regular 10"
 }
 
 #Title text
 + label {
   top = 23%
-  left = 25%
+  left = 27%
   width = 30%
   align = "right"
   id = "__title__"
   text = "Choose an OS"
   color = "#cdcfd4"
-  font = "Liberation Sans Regular 11"
+  font = "Iosevka Regular 14"
 }
