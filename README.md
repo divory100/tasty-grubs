@@ -41,7 +41,13 @@ Tesla theme except only uses Liberation Sans font instead of tesla font, as Tesl
 ![image](https://user-images.githubusercontent.com/76520109/126995684-bb3f82a3-7f91-4c09-b6a6-b3a85c969441.png)
 
 **Box**
-Comes with multiple wallpapers in its wallpapers/ directory.
+Comes with two different wallpapers, fields.jpeg and metropolis.jpeg
+
+*Example (metropolis.jpeg):*
+![image](https://user-images.githubusercontent.com/76520109/127147286-4790288f-ebc9-4894-85fc-11fa82679fc0.png)
+
+**Box Large**
+The larger variant of the box theme, useful if your menu entries are long
 
 *Example (fields.jpeg):*
 
@@ -54,3 +60,4 @@ You may need to tweak the theme file if your screen resolution means the text is
 
 ## Credits
 Inspiration was of course found in Innersloth's popular game Among Us and Elon Musk's Tesla Model 3. :)
+Credit to wallhaven.cc for the wallpapers
