@@ -12,6 +12,14 @@ After this make sure to run `update-grub` and you're good to go!
 ## Installation (GRUB init tunes)
 To use one of the GRUB init tunes (see `themes/tunes.md` for a list) simply edit the `GRUB_INIT_TUNE=` line of `/etc/default/grub` to whatever tune you desire, for example `GRUB_INIT_TUNE="500 262 2 311 2 349 2 370 2 349 2 311 2 262 5 233 1 294 1 262 2"`
 
+Included are:
+ - Among Us
+ - Megalovania
+ - Rickroll
+ - Happy Birthday
+ - USSR Anthem
+ - Ali A Intro
+
 ## Themes
 
 **Amogus**
