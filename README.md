@@ -62,3 +62,5 @@ You may need to tweak the theme file if your screen resolution means the text is
 ## Credits
 Inspiration was of course found in Innersloth's popular game Among Us and Elon Musk's Tesla Model 3. :)
 Credit to wallhaven.cc for the wallpapers
+
+Thank you to [GameParrot](https://github.com/GameParrot) for the USSR Anthem and Ali A intro GRUB init tunes 😀
