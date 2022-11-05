@@ -1,0 +1,51 @@
+# GRUB2 Football Theme
+# https://github.com/sueperb/tasty-grubs
+
+# general properties
+title-text: ""
+desktop-image: "football.jpg"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# boot menu
++ boot_menu {
+  left = 15%
+  top = 29%
+  width = 70%
+  height = 50%
+  item_color = "#f78000"
+  icon_width = 64
+  icon_height = 64
+  item_icon_space = 36
+  menu_pixmap_style = "terminal_box_*.png"
+  selected_item_color = "#03a9f4"
+  item_spacing = 0
+  icon_width = 0
+  item_icon_space = 0
+  selected_item_pixmap_style = "select_*.png"
+}
+
+# boot countdown
++ label {
+  top = 85%
+  left = 25%
+  width = 50%
+  align = "center"
+  id = "__timeout__"
+  text = "Game ending in %ds"
+  color = "#f78000"
+}
+
+#Title text
++ label {
+  top = 23%
+  left = 27%
+  width = 30%
+  align = "right"
+  id = "__title__"
+  text = ""
+  color = "#f78000"
+}
