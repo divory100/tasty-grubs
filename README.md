@@ -19,6 +19,7 @@ Included are:
  - Happy Birthday
  - USSR Anthem
  - Ali A Intro
+ - Marching Band Fight Song
 
 ## Themes
 
@@ -56,11 +57,18 @@ Comes with two different wallpapers, fields.jpeg and metropolis.jpeg
 ![image](https://user-images.githubusercontent.com/76520109/127147286-4790288f-ebc9-4894-85fc-11fa82679fc0.png)
 
 **Box Large**
+
 The larger variant of the box theme, useful if your menu entries are long
 
 *Example (fields.jpeg):*
 
 ![image](https://user-images.githubusercontent.com/76520109/127011777-57812306-8930-4a12-a475-a4d251e1e1bd.png)
+
+**Football**
+
+A simple theme with a football background
+
+![image](https://user-images.githubusercontent.com/85067619/200138835-dbbdf289-de54-4e85-bc0b-7cffcfe2ca37.jpg)
 
 
 
