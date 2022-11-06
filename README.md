@@ -64,9 +64,9 @@ The larger variant of the box theme, useful if your menu entries are long
 
 ![image](https://user-images.githubusercontent.com/76520109/127011777-57812306-8930-4a12-a475-a4d251e1e1bd.png)
 
-**Football**
+**American Football**
 
-A simple theme with a football background
+A simple theme with an American football background
 
 ![image](https://user-images.githubusercontent.com/85067619/200138835-dbbdf289-de54-4e85-bc0b-7cffcfe2ca37.jpg)
 
