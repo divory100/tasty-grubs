@@ -1,4 +1,4 @@
-# Tasty Grubs 🪲
+# Tasty Grubs
 A collection of GRUB2 themes.
 
 ## Installation
